@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**MehranKeivanimehr/MehranKeivanimehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 🔭 I’m currently working on thermal-aware continual learning on NVIDIA Jetson Orin NX, GPU energy modeling & measurement-based decomposition, and EdgeTrain-MAB for battery-aware warehouse robots (targeting CoRL 2026)
 
