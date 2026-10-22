@@ -15,7 +15,16 @@
 
 📫 How to reach me: m.keivanimehr [at] [institution].edu
 
+🌐 Website: [mehrankeivanimehr.github.io](https://mehrankeivanimehr.github.io)
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I once spent more time debugging tegrastat CSV parsers than training the actual continual learning models — edge research is 30% algorithms, 70% figuring out why VDD_CPU_GPU_CV readings don't make sense
+
+### 🚀 Recent projects
+
+- **[Multi-GPU Systems Lab](https://github.com/MehranKeivanimehr/multi-gpu-systems-lab)**: what evidence makes a multi-GPU benchmark trustworthy. DDP, FSDP2 and ZeRO training, tensor- vs data-parallel LLM serving, and CPU-replayable numerical checks on RTX A6000, TITAN RTX / GTX 1080 Ti and A100 systems.
+- **[Patients, Not Slices](https://github.com/MehranKeivanimehr/Brain-Tumor-Detection)**: honest, calibrated brain-tumor detection on MRI. Leakage-controlled evaluation on 519 glioblastoma patients, exact leave-one-patient-out, and patient-level conformal guarantees.
+
+More projects on [my website](https://mehrankeivanimehr.github.io/projects/).
 
